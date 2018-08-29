@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string name="white"> white</string>
+    <string name="green">green</string>
+    <string name="what_is_the_color_of_this_sweet">What is the color of this sweet?</string>
+    <string name="Finish">Finish</string>
+    <string name="what_is_the_color_of_milk">What is the color of milk?</string>
+    <string name="next">Next</string>
+    <string name="what_is_the_color_of_soil">What is the color of soil?</string>
+    <string name="what_is_the_color_of_the_sky">What is the color of the sky?</string>
+    <string name="red">red</string>
+    <string name="brown">brown</string>
+</resources>
